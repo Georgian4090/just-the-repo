@@ -1,0 +1,8 @@
+<resources>
+    <color name="widget_background">#0A0A0A</color>
+    <color name="widget_background_edge">#141414</color>
+    <color name="led_blue">#3DB2FF</color>
+    <color name="led_blue_dim">#1E6FA8</color>
+    <color name="label_gray">#7A8A99</color>
+    <color name="reached_green">#3DFF8F</color>
+</resources>

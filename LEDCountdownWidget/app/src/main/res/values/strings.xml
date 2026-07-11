@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LED Countdown</string>
+    <string name="default_label">COUNTDOWN</string>
+    <string name="tap_to_configure">TAP TO SET</string>
+    <string name="widget_reached_text">EVENT REACHED</string>
+    <string name="configure_title">Set Countdown Target</string>
+    <string name="label_hint">Label (e.g. TRIP, EXAM, LAUNCH)</string>
+    <string name="button_save_text">Save</string>
+    <string name="error_past_date">Pick a date/time in the future</string>
+    <string name="main_activity_instructions">LED Countdown is installed.\n\nLong-press your home screen, choose Widgets, find \"LED Countdown\", and drag it onto your home screen. You\'ll be asked to pick the target date/time.\n\nTap the widget anytime to change the target or label.</string>
+</resources>
